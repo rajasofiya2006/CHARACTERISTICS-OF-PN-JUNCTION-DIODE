@@ -1,7 +1,11 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+Sofiya.R(212223210029)
+
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
+
+
 COMPONENTS REQUIRED:
 S.NO COMPONENTS RANGE TYPE QUANTITY
 1. Regulated dual power supply (RPS) (0 – 30 V) 1
@@ -36,11 +40,22 @@ ii. Reverse bias condition
 Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
-Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+
+<img width="1744" height="963" alt="Screenshot 2025-11-30 072718" src="https://github.com/user-attachments/assets/4b4cc174-888f-46e9-8a8e-f25ac32de26d" />
+
+<img width="1690" height="608" alt="Screenshot 2025-11-30 072731" src="https://github.com/user-attachments/assets/fc5fa317-8c10-4b01-8cef-192a85404d20" />
+
+
+<img width="1719" height="942" alt="Screenshot 2025-11-30 072521" src="https://github.com/user-attachments/assets/d00ce8cf-3659-4eb8-9d14-e325da38ff54" />
+
+<img width="1699" height="696" alt="Screenshot 2025-11-30 072550" src="https://github.com/user-attachments/assets/b79c8b83-23bc-4e2a-b617-e1f4c83b3d15" />
+
 
 Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
 Result:
+
+
+Thus the forward and reverse bias characteristics of PN junction diode were obtained.
